@@ -37,7 +37,7 @@ function App() {
 
         <div className="section-title">
           <h2>About</h2>
-          <p style={{textAlign:"justify",padding:"20px"}}>I am a highly motivated computer science student with a deep passion for programming and a particular interest in web development. Through my studies, I have gained proficiency in various programming languages such as C++, C#, and Python, as well as modern web development technologies such as HTML, CSS, JavaScript, React JS, Node.js, and SQL. I have made many desktop applications including Hospital Management System, Distribution Management System and Learning management System. </p>
+          <p style={{textAlign:"justify",padding:"20px"}}>I am a highly motivated computer science student with a deep passion for programming and a particular interest in web development. Through my studies, I have gained proficiency in various programming languages such as C++, C#, and Python, as well as modern web development technologies such as HTML, CSS, JavaScript and SQL. I have made many desktop applications including Hospital Management System, Distribution Management System and Learning management System. </p>
           <p style={{textAlign:"justify",padding:"20px"}}>  I am continuously exploring emerging web technologies to stay up-to-date with the latest trends in the field. I am driven by my desire to make a positive impact in the world through the development of innovative and useful software applications that can solve real-world problems. I am committed to using my skills, knowledge, and creativity to contribute to society and make a meaningful difference.</p>
         </div>
 
@@ -164,7 +164,7 @@ function App() {
 
         <div className="row">
           <div className="col-lg-6" data-aos="fade-up">
-            <h3 className="resume-title">Sumary</h3>
+            <h3 className="resume-title">Summary</h3>
             <div className="resume-item pb-0">
               <h4>Muhammad Nazir</h4>
               <p><em>An accomplished computer science student with diverse skills in programming and web development, dedicated to developing innovative solutions that prioritize user experience.</em></p>
